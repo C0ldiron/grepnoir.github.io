@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A student at University of Advancing Technology. I have been here for awhile and I graduate in December. I am a blue team member of the UAT CDDC team and I mostly work with securing Active Directory. I also use Linux on a regular basis. I write scripts when I can and am currently working on a huge PowerShell project with a good friend of mine on the team. 
+I am a student at University of Advancing Technology. I have been here for awhile and I graduate in December. I am a blue team member of the UAT CDDC team and I mostly work with securing Active Directory. I also use Linux on a regular basis. I write scripts when I can and am currently working on a huge PowerShell project with a good friend of mine on the team. 
 
 ### More Information
 
