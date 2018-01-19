@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A student at University of Advancing Technology. I have been here for awhile and I graduate in December. I am a blue team member of the UAT CDDC team and I mostly work with securing Active Directory. I also use Linux on a regular basis. I write scripts when I can and am currently working on a huge PowerShell project with a good friend of mine on the team. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you have any questions would like to contact me, my email is below and all of my social media.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[grepnoir@gmail.com](mailto:grepnoir@gmail.com)
