@@ -1,1 +1,5 @@
-
+---
+layout: post
+title: Qualified at WRCCDC Qualifier
+---
+After about a year and half of studying, making it on the CCDC team, and working hard with my fellow comrades, it all payed off in the end. We tied 1st in defense of our environment, made 2nd (if I recall correctly) in services, and 3rd in the overall competition. I am very proud to be on a team with such great people. Yesterday we celebrated at Wingstop just because we could. Anyway, it's time to start studying and preparing for the WRCCDC Regional Competition. It's going to be a lot harder than the qualifier so we have to be prepared for anything. As the Windows Admin of the team, I am going to do more studies on topics like registry keys and scripting in PowerShell to make some things easier such as changing user passwords on a whim instead of changing each user individually. I also want to study specifically more on RUN keys in the registry because I hear attackers like to hide stuff in there. Hopefully my friend David can give me some more insight since he was the Windows Admin for the previous years. There's lots of stuff to study, on top of doing my homework efficiently. Wish me luck.
