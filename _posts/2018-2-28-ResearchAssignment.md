@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Windows Hardening Guide
+title: Research Assignment: grep, ls, cd, mv, traceroute
 ---
 
