@@ -1,5 +1,4 @@
 ---
 layout: post
-title: Research Assignment: grep, ls, cd, mv, traceroute
+title: Research Assignment - grep, ls, cd, mv, traceroute
 ---
-
