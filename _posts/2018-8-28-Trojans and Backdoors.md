@@ -11,11 +11,11 @@ Backdoors are holes in your operating system or software that allow an attacker 
 
 Trojans:
 ---------------
-Trojans are malware that pretends to be a legitimate piece of software, but instead causes havoc to your machine. It doesn't really replicate like other malware. Some trojans can manuever their way around your anti-virus and other security measures and turn them off or avoid them in general. Trojans may open other backdoors for other malicious programs.
+Trojans are malware that pretends to be a legitimate piece of software, but instead causes havoc to your machine. It doesn't really replicate like other malware. Some trojans can maneuver their way around your anti-virus and other security measures and turn them off or avoid them in general. Trojans may open other backdoors for other malicious programs.
 
 RATs:
 ---------------
-Standing for Remote Access Trojan, these guys are a remote administration tool that can take over your device entirely. They are the ultimate trojan. They administrative access to everything on the device. This kind of trojan install keyloggers, look through your camera, gain screen captures, copy files, etc.
+Standing for Remote Access Trojan, these guys are a remote administration tool that can take over your device entirely. They are the ultimate trojan. They have administrative access to everything on the device. This kind of trojan install keyloggers, looks through your camera, gains screen captures, copies files, etc.
 
 Tips to improve prevention:
 ---------------
