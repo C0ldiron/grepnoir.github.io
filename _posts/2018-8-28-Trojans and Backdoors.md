@@ -3,6 +3,8 @@ layout: post
 title: Backdoors and Trojans
 ---
 
+This post I will be talking about Backdoors, Trojans, and RATs.
+
 Backdoors:
 ---------------
 Backdoors are holes in your operating system or software that allow an attacker to access your machine. Malware is often used to make these backdoors on a system. Some malware can create backdoors after using another backdoor another piece of malware created. Some software has built-in backdoors. Old versions of software or operating systems can contain backdoors.
