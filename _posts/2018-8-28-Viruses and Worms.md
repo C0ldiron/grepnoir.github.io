@@ -7,7 +7,7 @@ Today, I learned about different kinds of malware. For this post I will be expla
 
 Virus:
 ------------------
-A virus is malware that can reproduce by itself and needs to be executed in order to work. It can be invisible or can be staright up in your face and can cause issues. Just running a program can cause a virus to spread. Viruses can destroy data and corrupt a system. Viruses require a host program to start replicating. Viruses can be found in different areas such as macros, boot sectors, programs, and can also be scripted.
+A virus is malware that can reproduce by itself and needs to be executed in order to work. It can be invisible or can be straight up in your face and can cause issues. Just running a program can cause a virus to spread. Viruses can destroy data and corrupt a system. Viruses require a host program to start replicating. Viruses can be found in different areas such as macros, boot sectors, programs, and can also be scripted.
 
 Worm:
 ------------------
